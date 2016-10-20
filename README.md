@@ -1,4 +1,4 @@
-# for My Wife
+# for My Lover 
 
-http://cjmm.github.io/love/ 
+http://csluqiang.github.io/love
 
