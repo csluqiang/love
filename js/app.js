@@ -351,10 +351,10 @@ $(function(){
                             '<span id="hashWish"></span><br>' +
                             '来自<span id="hashFrom"></span> / 2016-02-14' +
                         '</p>' +
-                        '<img src="img/qrcode.gif" width="220" height="220" class="qrcode" /> 扫码或微信长按二维码分享 <br>' +
-                        '<div class="license">' +
+                        //'<img src="img/qrcode.gif" width="220" height="220" class="qrcode" /> 扫码或微信长按二维码分享 <br>' +
+                        //'<div class="license">' +
                             '／后面还有哦／' +
-                        '</div>' +
+                        //'</div>' +
                     '</div>'
         }, {
             name:   'section5',
@@ -378,7 +378,7 @@ $(function(){
     ];
 
     // section5 & section6 添加dom
-    //$('#section5')[0].innerHTML = dom[0].text;
+    $('#section5')[0].innerHTML = dom[0].text;
     //$('#section6')[0].innerHTML = dom[1].text;
 
 
