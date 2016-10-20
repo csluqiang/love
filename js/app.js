@@ -353,7 +353,7 @@ $(function(){
                         '</p>' +
                         //'<img src="img/qrcode.gif" width="220" height="220" class="qrcode" /> 扫码或微信长按二维码分享 <br>' +
                         //'<div class="license">' +
-                            '／后面还有哦／' +
+                           // '／后面还有哦／' +
                         //'</div>' +
                     '</div>'
         }, {
