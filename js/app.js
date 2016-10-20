@@ -8,7 +8,7 @@ var defaultName = {
     title: 'For my honey',
     from: 'Johnson',
     to:   '我最亲爱的凤儿菇凉～',
-    wish: '爱你forver！'
+    wish: '爱你forever！'
 };
 
 var hashKey = {
