@@ -349,7 +349,7 @@ $(function(){
                             //'来自' + hash.set('from') +' / 2016-02-14' +
                         '<p>献给<span id="hashTo"></span><br>' +
                             '<span id="hashWish"></span><br>' +
-                            '来自<span id="hashFrom"></span> / 2016-02-14' +
+                            '来自<span id="hashFrom"></span>' +
                         '</p>' +
                         //'<img src="img/qrcode.gif" width="220" height="220" class="qrcode" /> 扫码或微信长按二维码分享 <br>' +
                         //'<div class="license">' +
