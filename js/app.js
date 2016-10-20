@@ -6,9 +6,9 @@
 //var controller = new ScrollMagic.Controller();
 var defaultName = {
     title: 'For my honey',
-    from: '阿木',
-    to:   '我最亲爱的老婆阿紫～',
-    wish: '情人节快乐！'
+    from: 'lasso',
+    to:   '我最亲爱的凤儿菇凉～',
+    wish: '爱你forver！'
 };
 
 var hashKey = {
