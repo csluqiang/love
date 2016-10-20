@@ -6,7 +6,7 @@
 //var controller = new ScrollMagic.Controller();
 var defaultName = {
     title: 'For my honey',
-    from: 'lasso',
+    from: 'Johnson',
     to:   '我最亲爱的凤儿菇凉～',
     wish: '爱你forver！'
 };
@@ -378,8 +378,8 @@ $(function(){
     ];
 
     // section5 & section6 添加dom
-    $('#section5')[0].innerHTML = dom[0].text;
-    $('#section6')[0].innerHTML = dom[1].text;
+    //$('#section5')[0].innerHTML = dom[0].text;
+    //$('#section6')[0].innerHTML = dom[1].text;
 
 
     // 给dom添加 hash截取的 3个字符串 to, wish和from（同时包含 decodeURI 转码过程）
