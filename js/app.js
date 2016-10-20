@@ -383,9 +383,9 @@ $(function(){
 
 
     // 给dom添加 hash截取的 3个字符串 to, wish和from（同时包含 decodeURI 转码过程）
-    $('#hashTo').text(hash.set('to'));
-    $('#hashWish').text(hash.set('wish'));
-    $('#hashFrom').text(hash.set('from'));
+    //$('#hashTo').text(hash.set('to'));
+    //$('#hashWish').text(hash.set('wish'));
+    //$('#hashFrom').text(hash.set('from'));
 
 
     /*
