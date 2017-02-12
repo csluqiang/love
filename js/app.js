@@ -351,7 +351,7 @@ $(function(){
                             '<span id="hashWish"></span><br>' +
                             '来自<span id="hashFrom"></span>' +
                         '</p>' +
-                        '<img src="img/Happy-Valentines-Day-2016-Gif-animated.gif" width="220" height="220" class="qrco" /> <br>' 
+                        '<img src="img/Happy-Valentines-Day-2016-Gif-animated.gif" width="220" height="220" class="qrco" /> <br>' +
                         //'<div class="license">' +
                            // '／后面还有哦／' +
                         //'</div>' +
